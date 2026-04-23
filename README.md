@@ -50,10 +50,11 @@ The goal was to deliver a smooth and fun playable experience while strengthening
 
 ---
 
-## 📷 Preview
+## 🎮 Gameplay Preview
 
-> *(Add screenshots or gameplay GIFs here for better presentation)*
-
+<p align="center">
+  <img src="Pacman.gif" width="500"/>
+</p>
 ---
 
 ## 📈 Future Improvements
